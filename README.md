@@ -250,7 +250,7 @@ This project was built to learn Python coming from a PHP/Laravel background. Key
 Full-stack web developer (Laravel / PHP) learning Python backend development.
 
 - GitHub: [@tjenchow](https://github.com/tjenchow)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/fyanco-tjen)
+- LinkedIn: [Fyanco](https://linkedin.com/in/fyanco-tjen)
 
 ---
 
