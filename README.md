@@ -124,9 +124,7 @@ job_agent/
 ├── seen_jobs.json       # Auto-generated dedup store (gitignored)
 ├── config.example.json  # Safe example config to commit
 ├── skills.example.json  # Safe example skills to commit
-├── requirements.txt     # Python dependencies
-└── .vscode/
-    └── launch.json      # VS Code debugger configs
+└── requirements.txt     # Python dependencies
 ```
 
 ---
