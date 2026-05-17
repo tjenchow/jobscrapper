@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+
+# Personal config (contains email password)
+config.json
+skills.json
+
+# Auto-generated state
+seen_jobs.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment variables
+.env
+.env.local
+
+# VS Code (optional — remove if you want to share debug configs)
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log

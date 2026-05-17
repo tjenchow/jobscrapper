@@ -1,0 +1,7 @@
+{
+  "languages": ["PHP","Python","SQL"],
+  "frameworks": ["Laravel","FastAPI"],
+  "tools": ["MySQL","Redis","Git"],
+  "years_exp": 3,
+  "prefer": "backend"
+}

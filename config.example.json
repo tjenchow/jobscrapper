@@ -1,0 +1,8 @@
+{
+  "email_to": "you@gmail.com",
+  "email_from": "yourbot@gmail.com",
+  "email_pass": "your-gmail-app-password",
+  "keywords": ["laravel","python","backend","api"],
+  "min_score": 6,
+  "max_jobs": 10
+}
